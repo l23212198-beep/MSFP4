@@ -1,5 +1,4 @@
-[![Open in MATLAB
-Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=DrPaulValle/MSF-IBF1020)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=l23212198-beep/MSFP4)
 
 # Práctica 4 --- Modelado y control del sistema endócrino
 
@@ -26,8 +25,8 @@ Electrónica.
 de Tijuana\
 **Asignatura:** Modelado de Sistemas Fisiológicos\
 **Programa:** Ingeniería Biomédica\
-**Estudiante:** Nombre completo · Número de control ·
-correo@tijuana.tecnm.mx
+**Estudiante:** Martin Alonso Gonzalez Holguin · 23212198 ·
+l23212198@tijuana.tecnm.mx
 
 **Repositorio de la asignatura:**
 https://github.com/DrPaulValle/MSF-IBF1020\
