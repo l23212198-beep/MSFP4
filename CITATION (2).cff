@@ -1,0 +1,33 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Practica 4: SIstema endocrino'
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Martin Alonso
+    family-names: Gonzalez Holguin
+    email: l23212198@tijuana.tecnm.mx
+    affiliation: TecNM /IT Tijuana
+repository-code: 'https://github.com/l23212198-beep/MSFP4'
+keywords:
+  - sistema endócrino
+  - secreción hormonal
+  - transporte hormonal
+  - analogía eléctrica
+  - circuito RLC
+  - sistema de segundo orden
+  - capacitancia; inductancia
+  - resistencia; función de transferencia
+  - respuesta al escalón
+  - estabilidad
+  - controlador PID
+  - Simscape Electrical
+  - experimentación in silico
+  - verificación experimental
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2026-11-17'
