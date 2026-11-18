@@ -693,8 +693,8 @@ comprobación experimental.
 
 ------------------------------------------------------------------------
 
-`<a id="actividades">`{=html}`</a>`{=html} \## Actividades del
-estudiante
+<a id="actividades">
+## Actividades del estudiante
 
 ### Etapa 1. Interpretación y modelo
 
@@ -765,7 +765,8 @@ estudiante
 
 ------------------------------------------------------------------------
 
-`<a id="estructura">`{=html}`</a>`{=html} \## Estructura del repositorio
+<a id="estructura">
+## Estructura del repositorio
 
 Organización **sugerida**, que debe adaptarse a los nombres de los
 archivos reales:
@@ -798,7 +799,8 @@ repositorio.
 
 ------------------------------------------------------------------------
 
-`<a id="requisitos">`{=html}`</a>`{=html} \## Requisitos
+<a id="requisitos">
+## Requisitos
 
 ### Software
 
@@ -833,8 +835,8 @@ de acuerdo con las indicaciones del Laboratorio de Electrónica.
 
 ------------------------------------------------------------------------
 
-`<a id="reproducibilidad">`{=html}`</a>`{=html} \## Reproducibilidad y
-entregables
+<a id="reproducibilidad">
+## Reproducibilidad y entregables
 
 ### Secuencia de reproducción
 
@@ -915,7 +917,8 @@ componentes y equipos.
 
 ------------------------------------------------------------------------
 
-`<a id="referencias">`{=html}`</a>`{=html} \## Referencias
+<a id="referencias">
+## Referencias
 
 \[1\] M. C. Khoo, *Physiological Control Systems: Analysis, Simulation,
 and Estimation*, 2nd ed., IEEE Press, 2018.
